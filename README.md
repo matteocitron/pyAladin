@@ -1,0 +1,2 @@
+# pyAladin
+pyvmomi vsphere api
