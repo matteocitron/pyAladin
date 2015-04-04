@@ -1,3 +1,3 @@
 # pyAladin
-pyvmomi vsphere api
+pyvmomi vSphere API
 pyAladin it is a Zend Framework 1.12 frontend for collect information via vmware vSphere api with python cgibin
